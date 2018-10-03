@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"name": "main_menu",
+			"name": "main_menu_2",
 			"enabled": true,
 			"interval": 1,
 			"displayPriority": "Topdown",
