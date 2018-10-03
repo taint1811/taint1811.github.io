@@ -7,7 +7,8 @@
 			"displayPriority": "Topdown",
 			"displayType": "Banner",
 			"creatives": [
-				"banner_promo_1"
+				"banner_promo_1",
+				"banner_promo_2"
 			]
 		},
 		{
@@ -28,8 +29,8 @@
 				"@type": "CrossPromo.PopupDisplayOptions",
 				"margin": "0.1,0.1,0.1,0.1",
 				"backgroundColor": "100,0,0,0",
-				"imgPromoUrl": "https://s3.envato.com/files/141607905/flappy-wigs-screenshots/4.7-inch%20(iPhone%206)%20-%20Screenshot%201.jpg",
-				"imgCloseButtonUrl": "https://www.shareicon.net/data/256x256/2015/10/23/136086_button_300x300.png",
+				"imgPromoUrl": "https://taint1811.github.io/crosspromo/images/modal_1_1024x1024.jpg",
+				"imgCloseButtonUrl": "https://taint1811.github.io/crosspromo/images/close_button_256x256.png",
 				"closeButtonPosition": "TopLeft"
 			},
 			"clickAction": {
@@ -45,7 +46,23 @@
 				"rect": "0.8,0.25,1,0.4",
 				"pivot": "1,0.5",
 				"autoCloseTime": -1,
-				"imgPromoUrl": "http://genknews.genkcdn.vn/thumb_w/660/2018/9/24/klyntarfromnewavengersvol135001-1537788177938389919939.jpg"
+				"imgPromoUrl": "https://taint1811.github.io/crosspromo/images/banner_1.png"
+			},
+			"constraints": [],
+			"clickAction": {
+				"@type": "CrossPromo.OpenUrlAction",
+				"iOSUrl": "https://itunes.apple.com/us/genre/ios-games/id6014?mt=8",
+				"androidUrl": "https://play.google.com/store/apps/category/GAME"
+			}
+		}
+		{
+			"id": "banner_promo_2",
+			"displayOptions": {
+				"@type": "CrossPromo.BannerDisplayOptions",
+				"rect": "0.1,0.25,1,0.4",
+				"pivot": "1,0.5",
+				"autoCloseTime": -1,
+				"imgPromoUrl": "https://taint1811.github.io/crosspromo/images/banner_2.png"
 			},
 			"constraints": [],
 			"clickAction": {
