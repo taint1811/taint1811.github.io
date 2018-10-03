@@ -54,7 +54,7 @@
 				"iOSUrl": "https://itunes.apple.com/us/genre/ios-games/id6014?mt=8",
 				"androidUrl": "https://play.google.com/store/apps/category/GAME"
 			}
-		}
+		},
 		{
 			"id": "banner_promo_2",
 			"displayOptions": {
