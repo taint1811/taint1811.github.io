@@ -17,7 +17,7 @@
 			"displayPriority": "Topdown",
 			"displayType": "Banner",
 			"creatives": [
-				"banner_promo_2",
+				"banner_promo_2"
 			]
 		},
 		{
@@ -68,8 +68,8 @@
 			"id": "banner_promo_2",
 			"displayOptions": {
 				"@type": "CrossPromo.BannerDisplayOptions",
-				"rect": "0,0,1,0.2",
-				"pivot": "1,0.5",
+				"rect": "0,0.25,0.2,0.4",
+				"pivot": "0,0.5",
 				"autoCloseTime": -1,
 				"imgPromoUrl": "https://taint1811.github.io/crosspromo/images/banner_2.png"
 			},
