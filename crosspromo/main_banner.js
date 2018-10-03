@@ -3,7 +3,7 @@
 		{
 			"name": "main_menu",
 			"enabled": true,
-			"interval": 1,
+			"interval": 0,
 			"displayPriority": "Topdown",
 			"displayType": "Banner",
 			"creatives": [
@@ -13,7 +13,7 @@
 		{
 			"name": "main_menu",
 			"enabled": true,
-			"interval": 1,
+			"interval": 0,
 			"displayPriority": "Topdown",
 			"displayType": "Banner",
 			"creatives": [
