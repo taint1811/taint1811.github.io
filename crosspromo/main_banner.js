@@ -8,7 +8,7 @@
 			"displayType": "Banner",
 			"creatives": [
 				"banner_promo_1",
-				"banner_promo_2"
+				
 			]
 		},
 		{
