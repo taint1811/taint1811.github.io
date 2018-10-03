@@ -68,7 +68,7 @@
 			"id": "banner_promo_2",
 			"displayOptions": {
 				"@type": "CrossPromo.BannerDisplayOptions",
-				"rect": "1,0.25,1,0.4",
+				"rect": "1,0.25,0.5,0.4",
 				"pivot": "0,0.5",
 				"autoCloseTime": -1,
 				"imgPromoUrl": "https://taint1811.github.io/crosspromo/images/banner_2.png"
