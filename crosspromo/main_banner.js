@@ -8,6 +8,15 @@
 			"displayType": "Banner",
 			"creatives": [
 				"banner_promo_1",
+			]
+		},
+		{
+			"name": "main_menu",
+			"enabled": true,
+			"interval": 1,
+			"displayPriority": "Topdown",
+			"displayType": "Banner",
+			"creatives": [
 				"banner_promo_2",
 			]
 		},
