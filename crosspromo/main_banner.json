@@ -2,7 +2,7 @@
 	"placements": [
 		{
 			"name": "main_menu",
-			"enabled": true,
+			"enabled": false,
 			"interval": 1,
 			"displayPriority": "Topdown",
 			"displayType": "Banner",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "main_menu_2",
-			"enabled": true,
+			"enabled": false,
 			"interval": 1,
 			"displayPriority": "Topdown",
 			"displayType": "Banner",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "in_game",
-			"enabled": true,
+			"enabled": false,
 			"interval": 2,
 			"displayPriority": "Topdown",
 			"displayType": "Modal",
