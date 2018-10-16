@@ -2,32 +2,32 @@
 	"placements": [
 		{
 			"name": "main_menu",
-			"enabled": false,
+			"enabled": true,
 			"interval": 1,
 			"displayPriority": "Topdown",
 			"displayType": "Banner",
 			"creatives": [
-				"banner_promo_1",
+				"banner_promo_1_bo",
 			]
 		},
 		{
 			"name": "main_menu_2",
-			"enabled": false,
+			"enabled": true,
 			"interval": 1,
 			"displayPriority": "Topdown",
 			"displayType": "Banner",
 			"creatives": [
-				"banner_promo_2"
+				"banner_promo_2_bo"
 			]
 		},
 		{
 			"name": "in_game",
-			"enabled": false,
+			"enabled": true,
 			"interval": 2,
 			"displayPriority": "Topdown",
 			"displayType": "Modal",
 			"creatives": [
-				"modal_promo_1"
+				"modal_promo_1_bo"
 			]
 		}
 	],
