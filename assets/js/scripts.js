@@ -133,7 +133,7 @@ $(function() {
             $('.top-menu ul li a').each(function() {
                 var currLink = $(this);
                 var refElement = $(currLink.attr("href"));
-                if (refElement.offset().top - 76 <= scrollPos) {
+                if (refElement.length && refElement.offset().top - 76 <= scrollPos) {
                     $('.top-menu ul li').removeClass("active");
                     currLink.closest('li').addClass("active");
                 }
