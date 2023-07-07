@@ -30,11 +30,11 @@ help: ## This help.
 VERSION=1.0.0
  
 git-push-dev:
-	git add . && git commit -m "fix" && git push origin dev
+	git add . && git commit -m "$(msg)" && git push origin dev
 git-push-stag:
-	git checkout stag && git merge dev -m "fix" && git push origin stag && git checkout dev
+	git checkout stag && git merge dev -m "merge from dev"&& git push origin stag && git checkout dev
 git-push-release:
-	git checkout release && git merge dev -m "fix" && git push origin release && git checkout dev
+	git checkout release && git merge dev -m "merge from dev" && git push origin release && git checkout dev
 
 git-fetch-dev:
 	git fetch && git reset --hard origin/dev
