@@ -42,14 +42,7 @@ Copyright (C) 2016 Coderare Inc
 
 /* ------------------------------------- */
 
-@import url(ionicons.min.css);
-@import url(bootstrap.min.css);
-@import url(animsition.min.css);
-@import url(photoswipe.css);
-@import url(default-skin/default-skin.css);
-@import url(jquery.mCustomScrollbar.min.css);
-@import url(themify-icons.css);
-@import url(animate.css);
+/* Removed unused imports */
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800");
 @import url("https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i");
